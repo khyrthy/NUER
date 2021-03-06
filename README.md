@@ -8,7 +8,7 @@
 # Français (France)
 
 ## Téléchargements
-Les téléchargements sont disponnibles directement dans l'onglet [*Releases*](https://github.com/khyrthy/NUER/releases) ou bien sur [la page du site](http://khyrthy.fr.nf/)
+Les téléchargements sont disponnibles directement dans l'onglet [*Releases*](https://github.com/khyrthy/NUER/releases) ou bien sur [la page du site](http://khyrthy.fr.nf/nuer/)
 
 ## Construire depuis la source
 Il est également possible de construire depuis la source.
