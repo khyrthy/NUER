@@ -409,7 +409,7 @@ while Loop_global:
 					Loop_Credits = True
 
 					# Enable credits scrolling
-					Credits.re
+					Credits.return_to_origin()
 					Credits.do_slide = True
 
 					# Stop current music
