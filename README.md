@@ -1,5 +1,7 @@
 # Nao's Universe : Endless Run
 
+[Logo du jeu](https://github.com/khyrthy/NUER/raw/master/Assets/GUI/Title.png "Logo du jeu")
+
 (FR) Un jeu où il faut sauter par-dessus des boites et ramasser des pièces.  
 (EN) A game about jumping around crates and collecting coins.
 
