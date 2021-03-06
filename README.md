@@ -86,6 +86,6 @@ Pour construire, rien de plus simple, éxécutez cette commande dans le dossier 
 python ./setup.py build
 ```
 ##### Linux
-````bash
+```bash
 python3 ./setup.py build
 ```
