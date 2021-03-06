@@ -77,7 +77,7 @@ Ceci clonera le repo dans un dossier, que nous allons nommer *folder*
 
 #### Fichier Setup.py:
 C'est le fichier qui nous intéressera pour la construction.  
-**Si vous êtes sous Windows, remplacez `base = None` par `base = Win32Gui`***
+**Si vous êtes sous Windows, remplacez `base = None` par `base = "Win32GUI"`***
 
 #### Construire
 Pour construire, rien de plus simple, éxécutez cette commande dans le dossier du code :
