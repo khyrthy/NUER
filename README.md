@@ -36,7 +36,7 @@ N'oubliez pas de cocher les options *Pip* et *Add to PATH* dans la fenêtre de l
 
 #### Pygame (1.9.2+)
 
-##### Souw Windows et MacOS :
+##### Sous Windows et MacOS :
 Dans une fenêtre CMD, installez pygame grâce à Pip :
 ```bat
 python -m pip install pygame--user
