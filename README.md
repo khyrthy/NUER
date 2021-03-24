@@ -82,7 +82,7 @@ C'est le fichier qui nous intéressera pour la construction.
 **Si vous êtes sous Windows, remplacez `base = None` par `base = "Win32GUI"`***
 
 #### Construire
-Pour construire, rien de plus simple, éxécutez cette commande dans le dossier du code :
+Pour construire, rien de plus simple, exécutez cette commande dans le dossier du code :
 ##### Windows et MacOS
 ```bash
 python ./setup.py build
