@@ -17,7 +17,7 @@ jobs:
       - name: Installation et configuration de Python 3.6
         uses: actions/setup-python@v2
         with:
-          python_version: '3.x'
+          python-version: '3.x'
       - name: Installation des dépendances
         run: python -m pip install nuitka pygame
       - name: Build du jeu
